@@ -1,6 +1,6 @@
 /*
- WAP to calculate the perimeter of a rectangle.
-Formula: Perimeter = 2 * (length + breadth)
+6.  WAP to calculate the perimeter of a rectangle.
+    Formula: Perimeter = 2 * (length + breadth)
 */
 
 #include <stdio.h>
