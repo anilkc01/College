@@ -1,10 +1,10 @@
 /*
-WAP to calculate the total marks, average, and percentage of 5 subjects
-Input marks of 5 subjects.
-Calculate:
-Total = Sum of marks.
-Average = Total / 5.
-Percentage = (Total / Maximum Marks) * 100.
+5. WAP to calculate the total marks, average, and percentage of 5 subjects
+    Input marks of 5 subjects.
+    Calculate:
+    Total = Sum of marks.
+    Average = Total / 5.
+    Percentage = (Total / Maximum Marks) * 100.
 */
 #include <stdio.h>
 
