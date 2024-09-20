@@ -23,7 +23,7 @@ int main(){
     }
 
     if(age[0] > age[1] && age[0] > age[2]){
-        printf("Person 1 is the oldest");
+        printf("Person 1 is the oldest\n");
     }
     else if (age[1] > age[2]){
         printf("Person 2 is the oldest\n");
