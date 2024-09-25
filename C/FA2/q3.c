@@ -2,7 +2,18 @@
 
 void getfib(int, int, int);
 int main(){
-    int count = 10;
+    int count;
+    int isValid;
+
+    do{
+        printf("Enter the number of Fibonacci series you want to print : ");
+        isValid = scanf("%d", &count);
+
+        if(!isValid){
+            printf("Invalid User Input! \n");
+            while(getchar() != '\n');
+        } 
+    }while(!isValid);
 
     int a = 0;
     int b = 1;
