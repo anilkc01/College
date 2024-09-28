@@ -1,3 +1,6 @@
+/*
+2. Do question 1 using Pointer and Function
+*/
 #include<stdio.h>
 
 void swap(int *a, int *b);

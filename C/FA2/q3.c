@@ -1,3 +1,6 @@
+/*
+3. WAP to print Fibonacci series using recursion.
+*/
 #include<stdio.h>
 
 void getfib(int, int, int);
@@ -29,7 +32,4 @@ void getfib(int a, int b, int count){
         printf("%d ",a+b);
         getfib(b,a+b,--count);
     }
-
-   
-    
 }

@@ -1,3 +1,6 @@
+/*
+4. WAP to check if number is palindrome or not.
+*/
 #include<stdio.h>
 int reverse(int);
 int main(){
